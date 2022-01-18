@@ -1,13 +1,13 @@
 {
   "User": {
-    "title": {
-      "nhs": {}
+    "nhs": {
+      "string": {}
     },
-    "title": {
-      "type": {}
+    "type": {
+      "string": {}
     },
-    "title": {
-      "textValue": {}
+    "textValue": {
+      "string": {}
     }
   }
 }
