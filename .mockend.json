@@ -1,7 +1,13 @@
 {
   "User": {
     "title": {
-      "string": {}
+      "nhs": {}
+    },
+    "title": {
+      "type": {}
+    },
+    "title": {
+      "textValue": {}
     }
   }
 }
